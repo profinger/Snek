@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Snek1", "Snek1\Snek1.csproj", "{978B0E37-B1A4-4496-8DA4-5FD9C487DC83}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{978B0E37-B1A4-4496-8DA4-5FD9C487DC83}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{978B0E37-B1A4-4496-8DA4-5FD9C487DC83}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{978B0E37-B1A4-4496-8DA4-5FD9C487DC83}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{978B0E37-B1A4-4496-8DA4-5FD9C487DC83}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
