@@ -1,0 +1,5 @@
+C:\Users\apfrogner\Downloads\CSML_complex\CSML\bin\Debug\CSML.dll
+C:\Users\apfrogner\Downloads\CSML_complex\CSML\bin\Debug\CSML.pdb
+C:\Users\apfrogner\Downloads\CSML_complex\CSML\obj\Debug\CSML.csprojResolveAssemblyReference.cache
+C:\Users\apfrogner\Downloads\CSML_complex\CSML\obj\Debug\CSML.dll
+C:\Users\apfrogner\Downloads\CSML_complex\CSML\obj\Debug\CSML.pdb

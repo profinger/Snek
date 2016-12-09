@@ -1,0 +1,9 @@
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\bin\Release\Snek1.exe.config
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\bin\Release\Snek1.exe
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\bin\Release\Snek1.pdb
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\bin\Release\CSML.dll
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\obj\Release\Snek1.Form1.resources
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\obj\Release\Snek1.Properties.Resources.resources
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\obj\Release\Snek1.csproj.GenerateResource.Cache
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\obj\Release\Snek1.exe
+C:\Users\apfrogner\Downloads\Snek-master\Snek-master\Snek1\Snek1\obj\Release\Snek1.pdb
